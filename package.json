@@ -1,0 +1,19 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "description": "para discord",
+  "main": "index.js",
+  "scripts": {
+    "test":"index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Designweb9/bot.git"
+  },
+  "author": "designer9",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Designweb9/bot/issues"
+  },
+  "homepage": "https://github.com/Designweb9/bot#readme"
+}
